@@ -1,0 +1,4 @@
+#fafafa - ash
+#3670ee - blue
+#00000c - black
+#3670ee - down blue
